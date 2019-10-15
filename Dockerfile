@@ -1,5 +1,5 @@
 FROM ubuntu:18.04 
-MAINTAINER "Anees Ravid khan <<anees.khan506@gmail.com>>"
+# MAINTAINER "Anees Ravid khan <<anees.khan506@gmail.com>>"
 RUN apt update
 RUN apt install -y openjdk-8-jdk
 # ENV JAVA_HOME /usr
