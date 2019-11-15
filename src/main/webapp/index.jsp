@@ -14,9 +14,10 @@
 <link href="css/sticky-footer-navbar.css" rel="stylesheet">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <script src="js/bootstrap.min.js"></script>
-<!-- <script src="js/jquery.min.js"></script> -->
 
 <script>
+	<href=http://127.0.0.1:9000/api/project_badges/quality_gate?project=DemoATR>
+	[![Quality gate](http://127.0.0.1:9000/api/project_badges/quality_gate?project=DemoATR)](http://127.0.0.1:9000/dashboard?id=DemoATR)
 	$(function() {
 		$("#tabs").tabs();
 	});
